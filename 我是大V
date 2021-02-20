@@ -1,0 +1,14 @@
+//每个人都想成为大V (VIP：Very Important Person)，但要一点一点积累才行，先从小v做起。要求输出由小写字母v组成的大V。
+输入描述:
+无
+输出描述:
+换行使用转义字符‘\n’  
+
+#include <stdio.h>
+int main()
+{
+ 
+printf("Practice makes perfect!");
+    return 0;
+ 
+}
